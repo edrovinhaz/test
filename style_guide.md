@@ -24,10 +24,10 @@ Other
 - Key terms may be put in 'single quotes' when first introduced or explained. Once will usually be enough.
 - Space after ellipses when at the end of a sentence... But no space when...the sentence continues like this.
 - S-Stuttered words at the start of a sentence are capitalised before and after the dash, but otherwise n-not.
-- Asterisks around onomatopoeic words like *huff*, *groan*, but not around phonetics like argh, tch.
-- Em dashes for emphasis of explanatory clauses--this being one example.
-- Parenthetical em dashes where--such as in this example--deemed suitable.
-- Em dashes then a space for end of a line where someone is-- Interrupted by themself or someone else.
-- - Dashes around headings for some computer readouts etc -
+- Asterisks around onomatopoeic words like \*huff\*, \*groan\*, but not around phonetics like argh, tch.
+- Em dashes without spaces for emphasis of explanatory clauses—this being one example.
+- Parenthetical em dashes where—such as in this example—deemed suitable. Again no spaces.
+- Em dashes then a space for end of a line where someone is— Interrupted by themself or someone else.
+- \- Dashes around headings for some computer readouts etc -
 - Acronyms never have full stops, so DNA not D.N.A.
 - Always okay, never OK or O.K.
